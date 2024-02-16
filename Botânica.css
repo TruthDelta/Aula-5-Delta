@@ -7,6 +7,10 @@ h2 {
 text-align: center;
 }
 
+h3{
+font-size: large;
+
+}
 section {
 color: #fff;
 background-color: #0f2c7b;
@@ -15,6 +19,10 @@ background-color: #0f2c7b;
 p {
 text-align: justify;
 font-size: 17px;
+}
+
+a{
+color: #7fff6e;
 }
 
 table{
@@ -27,4 +35,5 @@ font-size: 25px;
 
 footer {
 font-size: 14px;
+background-color: #0f2c7b
 }
